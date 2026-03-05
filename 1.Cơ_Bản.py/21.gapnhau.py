@@ -1,0 +1,6 @@
+d,v1,v2=input().split()
+v1=int(v1)
+v2=int(v2)
+d=int(d)
+t=d/(v1+v2)
+print(f'{t:.5f}')

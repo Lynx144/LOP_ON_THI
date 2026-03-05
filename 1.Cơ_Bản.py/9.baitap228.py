@@ -1,0 +1,5 @@
+a,b=input().split()
+a=float(a)
+b=float(b)
+print(f"{(a**2+b**2)/2:.10f}")
+print(f"{(abs(a)+abs(b))/2:.6f}")

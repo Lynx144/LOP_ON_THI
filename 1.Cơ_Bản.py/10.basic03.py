@@ -1,0 +1,5 @@
+t,m,n=input().split()
+t=int(t)
+m=int(m)
+n=int(n)
+print(t*3+n*2+m*5)

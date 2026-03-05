@@ -1,0 +1,5 @@
+x,y=input().split()
+x=int(x)
+y=int(y)
+print(f"{(x+1)//2} {int((y/2))}")
+print(f"{int((x/2))} {(y+1)//2}")
